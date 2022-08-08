@@ -1,0 +1,288 @@
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
+// Fuction to find average of even numbers
+Fortunate Atubiga 10951983
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to calculate the average
+// of even numbers
+int averageEven(int h)
+{
+	if (h % 2 != 0) {
+		cout<<"Invalid Input";
+		return -1;
+	}
+
+	return (h + 2) / 2;
+}
+
+// driver function
+int main()
+{
+	int h = 16;
+	cout<<averageEven(h)<<endl;
+	return 0;
+}
